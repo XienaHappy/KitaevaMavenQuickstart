@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TriangleTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.781 s <<< FAILURE! - in TriangleTest
+test3{int, int, int}  Time elapsed: 0.052 s  <<< ERROR!
+org.junit.platform.commons.PreconditionViolationException: Classpath resource [/WrongTriangles.csv] does not exist
+
